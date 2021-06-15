@@ -1,0 +1,1 @@
+'real(kind=8)        , parameter, public :: pi_r8   = 3.14159265358979323846'
