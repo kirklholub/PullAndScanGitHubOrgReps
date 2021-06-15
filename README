@@ -1,0 +1,6 @@
+Creates a series of time-stamped git repositories to satisfy NOAA's Gold Copy requirement.
+
+Pulls all GitHub repositories of all Organizations belonging to a GitHub User.
+Uses the environment variable GITUSERTOKEN to identify the user and obtain permissions.
+Uses https communication and the GITUSERTOKEN must have SAML SSO access enabled.
+
